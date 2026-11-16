@@ -1,14 +1,14 @@
 # Sistema de Gestión de Libros Electrónicos
 
-Este repositorio contiene el desarrollo de un sistema básico para administrar libros electrónicos, utilizando el lenguaje de programación Go.
+Creación de un Sistema de Gestión de Libros electrónicos. 
 
-## Funcionalidades
-- Interacción con el programa mediante un menú en consola.
-- Incorporación de libros al sistema.
-- Consulta y visualización de los libros registrados.
+## Funciones actuales
+- Menú interactivo
+- Registro de libros
+- Visualización de libros
 
-## Lenguaje utilizado
-- Go
+## Tecnologías
+- Go 
 
 ## Desarrollado por
 Angel Iñiguez
